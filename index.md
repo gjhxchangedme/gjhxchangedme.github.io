@@ -6,12 +6,12 @@ layout: home
 title: "Gabriel Jay Huerte - ICONNECTGUAM"
 ---
 
-<section id="content" style="display: none; background-color: #000000;">
+<section id="content" style="display: none; background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),  url('https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');">
     <div class="container-fluid">
         <div class="d-flex flex-col align-items-center justify-content-center text-success w-full h-full" style="height: 100vh;">
             <div class="row px-5 typewriter">
                 <p class="col-12 text-uppercase m-0 programming-font line-1" style="font-size: 5vh">
-                    <span class="letters-1">Hey There! I'm <strong class="px-md-2">Gabriel Huerte</strong> :D </span>
+                    <span class="letters-1"><strong class="px-md-2">Gabriel Huerte</strong> at your service</span>
                 </p>
                 <p class="col-12 programming-font line-2" style="font-size: 3vh">
                     <span class="letters-2">Nice to meet you</span> 
