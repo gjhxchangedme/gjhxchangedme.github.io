@@ -23,7 +23,7 @@ title: "Gabriel Jay Huerte - ICONNECTGUAM"
 
 <script type="text/javascript">
 
-    $('#content').imagesLoaded( function() {
+    $('#content').imagesLoaded({ background: true }, function() {
         $(document).ready(function () {
             
             var textWrapper = document.querySelector('.line-1 .letters-1');
