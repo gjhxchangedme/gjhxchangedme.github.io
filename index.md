@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "Gabriel Jay Huerte - ICONNECTGUAM"
+title: "Gabriel Jay Huerte - XCHANGED INC"
 ---
 
 <section id="content" style="display: none; background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),  url('https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');">
