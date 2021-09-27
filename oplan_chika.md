@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default-dark
 title: Oplan Chika
 permalink: /oplan-chika/
 ---
@@ -21,8 +21,7 @@ Topics to Discuss. Do include what you can below.
  - Do you have any blocking tasks?
 
 Anything you can **SHARE**?
- - Global and/or local news; Technology, Science,  
- - Sports, Movies/TV, ANIME, Games, etc... (MANDATORY)
+ - Global and/or local news: Technology, Science, Sports, Movies/TV, ANIME, Games, etc... (MANDATORY)
  - Banat
  - Food for Thought
  - Shower Thoughts
